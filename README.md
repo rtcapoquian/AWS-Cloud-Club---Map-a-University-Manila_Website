@@ -1,5 +1,7 @@
 # AWS Cloud Club - Mapúa University Manila Web Application Proposal 🚀
 
+### 🌐 **Visit our sample Website**: [AWS Cloud Club Website](https://purple-mud-098a42e10.4.azurestaticapps.net/)
+
 ## 🚀 Project Overview
 
 The **AWS Cloud Club** at Mapúa University Manila is a student organization focused on leveraging AWS services for educational purposes. This web application will serve as a centralized platform for the club's activities, events, member registration, and resources. By integrating various AWS technologies, the platform will offer a highly interactive and informative experience for students.
@@ -125,16 +127,16 @@ The **AWS Cloud Club** at Mapúa University Manila is a student organization foc
 
 ## 💰 Estimated Yearly Cost
 
-| **Service**          | **Estimated Cost** |
-|----------------------|--------------------|
-| 🖥️ **AWS Lambda**       | $100               |
-| 📊 **DynamoDB**         | $50                |
-| 🚀 **CloudFront**       | $60                |
-| 🗂️ **S3 Storage**       | $30                |
-| 🌐 **Route 53**         | $10                |
-| **Total**            | **$250/year**      |
+| **Service**       | **Estimated Cost** |
+| ----------------- | ------------------ |
+| 🖥️ **AWS Lambda** | $100               |
+| 📊 **DynamoDB**   | $50                |
+| 🚀 **CloudFront** | $60                |
+| 🗂️ **S3 Storage** | $30                |
+| 🌐 **Route 53**   | $10                |
+| **Total**         | **$250/year**      |
 
-*Note: These costs are estimates and may vary depending on usage and scale.*
+_Note: These costs are estimates and may vary depending on usage and scale._
 
 ## 📌 Features of the AWS Cloud Club Website
 
