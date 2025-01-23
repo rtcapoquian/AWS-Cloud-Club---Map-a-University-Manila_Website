@@ -43,7 +43,6 @@ The **AWS Cloud Club** at Mapúa University Manila is a student organization foc
 - **AWS Lambda**: Node.js for serverless processing
 - **DynamoDB**: For storing event data, user registrations, etc.
 - **AWS S3**: For static content hosting
-- **API Gateway**: For managing API requests and communication between the frontend and backend
 
 ### **Networking**
 
@@ -84,7 +83,6 @@ The **AWS Cloud Club** at Mapúa University Manila is a student organization foc
 
 - 🖥️ AWS Lambda (Node.js)
 - 📊 DynamoDB
-- 🌐 API Gateway
 
 ### **Hosting and Storage**
 
@@ -115,14 +113,13 @@ The **AWS Cloud Club** at Mapúa University Manila is a student organization foc
   - Develop responsive layouts using Tailwind CSS.
 - 🔧 **Backend Setup**:
   - Implement Lambda functions for event registration and user management.
-  - Configure API Gateway for backend communication.
 - 📦 **Static Assets**:
   - Upload static assets to AWS S3 and integrate with CloudFront for caching.
 
 ### **Sprint 1 Deliverables**
 
 - 🏠 Homepage layout completed.
-- 🛠️ AWS services (Lambda, API Gateway, DynamoDB, S3) set up and configured.
+- 🛠️ AWS services (Lambda, DynamoDB, S3) set up and configured.
 - ⏳ Event registration and countdown functionality implemented.
 
 ## 💰 Estimated Yearly Cost
